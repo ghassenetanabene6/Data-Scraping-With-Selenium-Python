@@ -3,11 +3,7 @@
 
 <strong>Task 1 - Apple mobility data</strong>
 
-Get data from there:
-
-https://covid19.apple.com/mobility
-
- 
+Get data from : https://covid19.apple.com/mobility
 
 The function will take no argument but need to return a Pandas dataframe with the following columns :
 
@@ -17,8 +13,7 @@ geo_type, region, transportation_type, alternative_name, sub-region, country, da
  
 <strong>Task 2 - FSA data </strong>
 
-
-https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/crop-acreage-data/index
+Get data from : https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/crop-acreage-data/index
  
 The function will take a list of years as argument.
 
